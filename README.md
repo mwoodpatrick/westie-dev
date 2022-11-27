@@ -134,7 +134,16 @@ Also see [MDX - Markdown for the component era](https://github.com/mdx-js/mdx)
 
 ## Publish your packages
 
-See this article [Publishable libraries with Nx Monorepo - part 1 - DEV Community](https://dev.to/agroupp/publishable-libraries-with-nx-monorepo-part-1-1ae)
+Publishing my packages to [npm/westie-dev](https://www.npmjs.com/settings/westie-dev/packages):
+
+- cd dist/packages/lib/
+- npm publish --access public
+
+The '-access' option is only needed when first adding a new package.
+
+See this article [Publishable libraries with Nx Monorepo - part 1 - DEV Community][def26]
+
+[Publishable and Buildable Nx Libraries](<https://nx.dev/more-concepts/buildable-and-publishable-libraries>)
 
 TODO: #1 Need to find more articles on publising see [slack question](<https://nrwlcommunity.slack.com/archives/CMFKWPU6Q/p1669484241637909>)
 
@@ -185,3 +194,4 @@ Visit [Nx Cloud][def15] to learn more.
 [def23]: https://nx.dev/community
 [def24]: https://github.com/nrwl/nx-recipes
 [def25]: https://nx.dev
+[def26]: https://dev.to/agroupp/publishable-libraries-with-nx-monorepo-part-1-1ae
