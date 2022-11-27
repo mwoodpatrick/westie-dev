@@ -79,6 +79,18 @@ Run `nx e2e my-app` to execute the end-to-end tests via [Cypress](https://www.cy
 
 Run `nx affected:e2e` to execute the end-to-end tests affected by a change.
 
+## In Process
+
+See
+
+ [Getting Started with Integrated Repos | Nx](https://nx.dev/getting-started/integrated-repo-tutorial)
+  
+[Create a Next.js web app with Nx. In this article, we’re going to explore… | by Juri Strumpflohner | Nx Devtools (nrwl.io)](https://blog.nrwl.io/create-a-next-js-web-app-with-nx-bcf2ab54613)
+ 
+  [Juri's repo](https://github.com/juristr/blog-series-nextjs-nx)
+ 
+[My Old Repo based on articles](https://github.com/mwoodpatrick/blog-series-nextjs-nx)
+
 ## Markdown
 
 See these articles on creating good Markdown:
