@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@westie-dev/is-even": ["packages/is-even/src/index.ts"]
+      "@westie-dev/is-even": ["packages/is-even/src/index.ts"],
+      "@westie-dev/is-odd": ["packages/is-odd/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
