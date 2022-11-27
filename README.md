@@ -87,9 +87,20 @@ Run `nx e2e my-app` to execute the end-to-end tests via [Cypress](https://www.cy
 
 Run `nx affected:e2e` to execute the end-to-end tests affected by a change.
 
+## Working in a dev container
+
+[Going further with Dev Containers - Code With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/developer-experience/going-further/)
+
+[Dev Container Features (visualstudio.com)](https://code.visualstudio.com/blogs/2022/09/15/dev-container-features)
+
+[Nx Slack - Are there any docs/recommendations on working with Nx in a dev container?](https://nrwlcommunity.slack.com/archives/CMFKWPU6Q/p1669559658754119)
 ## In Process
 
 See
+
+- [Dev Container Features: Self Authoring Template][def]
+
+- [use mdx on github - Search (bing.com)](https://www.bing.com/search?q=use+mdx+on+github&form=ANNTH1&refig=f1e603068a8f45808fa6197f0e916d01)
 
 - [Getting Started with Integrated Repos | Nx](https://nx.dev/getting-started/integrated-repo-tutorial)
   
@@ -147,3 +158,6 @@ Teams using Nx gain the advantage of building full-stack applications with their
 Visit [Nx Cloud](https://nx.app/) to learn more.
 
 ![NX Logo](https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png)
+
+
+[def]: https://github.com/devcontainers/feature-starter
