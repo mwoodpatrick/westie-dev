@@ -1,6 +1,6 @@
 # WestieDev
 
-This is my main mono rerepo and was created using [Nx](https://nx.dev).
+This is my main mono rerepo and was created using [Nx][def25].
 
 <p style="text-align: center;"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
 
@@ -14,22 +14,22 @@ These capabilities include generating applications, libraries, etc as well as th
 
 Below are our core plugins:
 
-- [React](https://reactjs.org)
+- [React][def6]
   - `npm install --save-dev @nrwl/react`
 - Web (no framework frontends)
   - `npm install --save-dev @nrwl/web`
-- [Angular](https://angular.io)
+- [Angular][def7]
   - `npm install --save-dev @nrwl/angular`
-- [Nest](https://nestjs.com)
+- [Nest][def8]
   - `npm install --save-dev @nrwl/nest`
-- [Express](https://expressjs.com)
+- [Express][def9]
   - `npm install --save-dev @nrwl/express`
-- [Node](https://nodejs.org)
+- [Node][def10]
   - `npm install --save-dev @nrwl/node`
 
-There are also many [community plugins](https://nx.dev/community) you could add.
+There are also many [community plugins][def23] you could add.
 
-Also see these [recipes](https://github.com/nrwl/nx-recipes)
+Also see these [recipes][def24]
 
 ## Generate an application
 
@@ -77,38 +77,39 @@ To build and test all my changes run:
 - npx nx run-many --target=build
 - npx nx run-many --target=test
 
-Run `nx test my-app` to execute the unit tests via [Jest](https://jestjs.io).
+Run `nx test my-app` to execute the unit tests via [Jest][def21].
 
 Run `nx affected:test` to execute the unit tests affected by a change.
 
 ## Running end-to-end tests
 
-Run `nx e2e my-app` to execute the end-to-end tests via [Cypress](https://www.cypress.io).
+Run `nx e2e my-app` to execute the end-to-end tests via [Cypress][def22].
 
 Run `nx affected:e2e` to execute the end-to-end tests affected by a change.
 
 ## Working in a dev container
 
-[Going further with Dev Containers - Code With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/developer-experience/going-further/)
+[Going further with Dev Containers - Code With Engineering Playbook][def3]
 
-[Dev Container Features (visualstudio.com)](https://code.visualstudio.com/blogs/2022/09/15/dev-container-features)
+[Dev Container Features (visualstudio.com)][def4]
 
-[Nx Slack - Are there any docs/recommendations on working with Nx in a dev container?](https://nrwlcommunity.slack.com/archives/CMFKWPU6Q/p1669559658754119)
+[Nx Slack - Are there any docs/recommendations on working with Nx in a dev container?][def5]
+
 ## In Process
 
 See
 
 - [Dev Container Features: Self Authoring Template][def]
 
-- [use mdx on github - Search (bing.com)](https://www.bing.com/search?q=use+mdx+on+github&form=ANNTH1&refig=f1e603068a8f45808fa6197f0e916d01)
+- [use mdx on github - Search (bing.com)][def2]
 
-- [Getting Started with Integrated Repos | Nx](https://nx.dev/getting-started/integrated-repo-tutorial)
+- [Getting Started with Integrated Repos | Nx][def11]
   
-- [Create a Next.js web app with Nx. In this article, we’re going to explore… | by Juri Strumpflohner | Nx Devtools (nrwl.io)](https://blog.nrwl.io/create-a-next-js-web-app-with-nx-bcf2ab54613)
+- [Create a Next.js web app with Nx. In this article, we’re going to explore… | by Juri Strumpflohner | Nx Devtools (nrwl.io)][def12]
 
-- [Juri's repo](https://github.com/juristr/blog-series-nextjs-nx)
+    - [Juri's repo][def13]
 
-- [My Old Repo based on articles](https://github.com/mwoodpatrick/blog-series-nextjs-nx)
+    - [My Old Repo based on articles][def14]
 
 ## Markdown
 
@@ -116,14 +117,14 @@ See these articles on creating good Markdown:
 
 [Markdown - Tutorials](https://www.w3schools.io/file/markdown-introduction/)
 
-[Markdown Style Guide](https://cirosantilli.com/markdown-style-guide/#top-level-header)
+[Markdown Style Guide][def20]
 
-[USE MARKDOWN LINT TO CHECK YOUR MARKDOWN FILES FOR ERRORS](https://whatismarkdown.com/use-markdown-lint-to-check-your-markdown-files-for-errors/)
-[markdownlint](https://github.com/DavidAnson/markdownlint)
+[USE MARKDOWN LINT TO CHECK YOUR MARKDOWN FILES FOR ERRORS][def18]
+[markdownlint][def19]
 
-[Markdown : center image](https://dev.to/bdavidxyz/markdown-center-image-39j1#:~:text=Markdown%20%3A%20center%20image%201%20Solution%201%20%3A,where%20you%20have%20control%20over%20CSS%20styles%20)
+[Markdown : center image][def16]
 
-[markdownlint](https://github.com/DavidAnson/markdownlint/blob/v0.26.2/doc/Rules.md#md033)
+[markdownlint][def17]
 
 Also see [MDX - Markdown for the component era](https://github.com/mdx-js/mdx)
 
@@ -143,7 +144,7 @@ Run `nx graph` to see a diagram of the dependencies of your projects.
 
 ## Further help
 
-Visit the [Nx Documentation](https://nx.dev) to learn more.
+Visit the [Nx Documentation][def25] to learn more.
 
 ## ☁ Nx Cloud
 
@@ -155,9 +156,32 @@ Nx Cloud pairs with Nx in order to enable you to build and test code more rapidl
 
 Teams using Nx gain the advantage of building full-stack applications with their preferred framework alongside Nx’s advanced code generation and project dependency graph, plus a unified experience for both frontend and backend developers.
 
-Visit [Nx Cloud](https://nx.app/) to learn more.
+Visit [Nx Cloud][def15] to learn more.
 
 ![NX Logo](https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png)
 
-
 [def]: https://github.com/devcontainers/feature-starter
+[def2]: https://www.bing.com/search?q=use+mdx+on+github&form=ANNTH1&refig=f1e603068a8f45808fa6197f0e916d01
+[def3]: https://microsoft.github.io/code-with-engineering-playbook/developer-experience/going-further/
+[def4]: https://code.visualstudio.com/blogs/2022/09/15/dev-container-features
+[def5]: https://nrwlcommunity.slack.com/archives/CMFKWPU6Q/p1669559658754119
+[def6]: https://reactjs.org
+[def7]: https://angular.io
+[def8]: https://nestjs.com
+[def9]: https://expressjs.com
+[def10]: https://nodejs.org
+[def11]: https://nx.dev/getting-started/integrated-repo-tutorial
+[def12]: https://blog.nrwl.io/create-a-next-js-web-app-with-nx-bcf2ab54613
+[def13]: https://github.com/juristr/blog-series-nextjs-nx
+[def14]: https://github.com/mwoodpatrick/blog-series-nextjs-nx
+[def15]: https://nx.app/
+[def16]: https://dev.to/bdavidxyz/markdown-center-image-39j1#:~:text=Markdown%20%3A%20center%20image%201%20Solution%201%20%3A,where%20you%20have%20control%20over%20CSS%20styles%20
+[def17]: https://github.com/DavidAnson/markdownlint/blob/v0.26.2/doc/Rules.md#md033
+[def18]: https://whatismarkdown.com/use-markdown-lint-to-check-your-markdown-files-for-errors/
+[def19]: https://github.com/DavidAnson/markdownlint
+[def20]: https://cirosantilli.com/markdown-style-guide/#top-level-header
+[def21]: https://jestjs.io
+[def22]: https://www.cypress.io
+[def23]: https://nx.dev/community
+[def24]: https://github.com/nrwl/nx-recipes
+[def25]: https://nx.dev
