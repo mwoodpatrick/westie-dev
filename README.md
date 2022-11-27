@@ -71,6 +71,12 @@ Run `nx build my-app` to build the project. The build artifacts will be stored i
 
 ## Running unit tests
 
+To build and test all my changes run:
+
+- npx nx run-many --target=lint
+- npx nx run-many --target=build
+- npx nx run-many --target=test
+
 Run `nx test my-app` to execute the unit tests via [Jest](https://jestjs.io).
 
 Run `nx affected:test` to execute the unit tests affected by a change.
