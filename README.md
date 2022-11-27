@@ -107,10 +107,17 @@ See
   
 - [Create a Next.js web app with Nx. In this article, we’re going to explore… | by Juri Strumpflohner | Nx Devtools (nrwl.io)][def12]
 
-    - [Juri's repo][def13]
+  - [Juri's repo][def13]
 
-    - [My Old Repo based on articles][def14]
+  - [My Old Repo based on articles][def14]
 
+## Domain Driven Design - Imposing Constraints
+
+TODO: #2 Need real example of using DDD
+
+[Domain Driven Design Implementation Plainly][def27]
+
+[Enforcing Dependency Constraints in Nx Monorepo Projects][def28]
 ## Markdown
 
 See these articles on creating good Markdown:
@@ -195,3 +202,5 @@ Visit [Nx Cloud][def15] to learn more.
 [def24]: https://github.com/nrwl/nx-recipes
 [def25]: https://nx.dev
 [def26]: https://dev.to/agroupp/publishable-libraries-with-nx-monorepo-part-1-1ae
+[def27]: https://dev.to/agroupp/domain-driven-design-implementation-plainly-1fmn
+[def28]: https://dev.to/rupeshtiwari/enforcing-dependency-constraints-in-nx-monorepo-projects-3ldj
