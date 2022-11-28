@@ -118,6 +118,12 @@ TODO: #2 Need real example of using DDD
 [Domain Driven Design Implementation Plainly][def27]
 
 [Enforcing Dependency Constraints in Nx Monorepo Projects][def28]
+## Fullstack
+
+[Going TypeStack with NX Monorepo and Docker | Dev Genius][def33]
+
+- [mend3/typestack: Repo for tutorial with Nx (github.com)][def34]
+
 ## Markdown
 
 See these articles on creating good Markdown:
@@ -149,6 +155,15 @@ Publishing my packages to [npm/westie-dev](https://www.npmjs.com/settings/westie
 The '-access' option is only needed when first adding a new package.
 
 See this article [Publishable libraries with Nx Monorepo - part 1 - DEV Community][def26]
+
+[Nx monorepo : publish your libraries to Github Packages with Github Actions & Semantic release — Part 3/3 | by Guy Senpai | Medium][def29]
+
+[Publish affected Projects with custom Nx commands | raeffs.dev][def30]
+
+[Publishing Nx Monorepo Angular App to NPM - DEV Community][def31]
+
+[Publishing a Next.js app to Vercel with Nx | juri.dev (juristr.com)][def32]
+
 
 [Publishable and Buildable Nx Libraries](<https://nx.dev/more-concepts/buildable-and-publishable-libraries>)
 
@@ -204,3 +219,9 @@ Visit [Nx Cloud][def15] to learn more.
 [def26]: https://dev.to/agroupp/publishable-libraries-with-nx-monorepo-part-1-1ae
 [def27]: https://dev.to/agroupp/domain-driven-design-implementation-plainly-1fmn
 [def28]: https://dev.to/rupeshtiwari/enforcing-dependency-constraints-in-nx-monorepo-projects-3ldj
+[def29]: https://medium.com/@guysenpai89/nx-monorepo-publish-your-libraries-to-github-packages-with-github-actions-semantic-release-fa9822467b24
+[def30]: https://www.raeffs.dev/blog/web-development/2021-05-11-publish-packages-with-custom-nx-targets/
+[def31]: https://dev.to/rupeshtiwari/publishing-nx-monorepo-angular-app-to-npm-4nk7
+[def32]: https://juristr.com/blog/2021/09/nextjs-deploy-vercel-with-nx/
+[def33]: https://blog.devgenius.io/going-typestack-with-nx-monorepo-and-docker-part-1-d5ff257981f2
+[def34]: https://github.com/mend3/typestack
